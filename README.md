@@ -8,6 +8,6 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
 
 
 ## Results
-![Content Image](/japanese_garden.png)
+![Content Image](/japanese_garden.jpg)
 ![Style Image](/picasso_selfportrait.jpg)
 ![Style Transfer Image](/StyledImage.jpg)
